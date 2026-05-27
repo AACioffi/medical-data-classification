@@ -4,7 +4,7 @@ A two-milestone machine learning project applying classical and deep learning
 methods to medical datasets, with a focus on handling severe class imbalance.
 
 **Authors:** Alessandro Annibale Cioffi, David Gorgiev, Sacha Heizmann  
-**Course:** CS-233: Introduction to Machine Learning, EPFL (Spring 2025)
+**Course:** CS-233 - Introduction to Machine Learning, EPFL (Spring 2025)
 
 ## Overview
 
